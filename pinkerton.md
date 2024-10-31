@@ -1,18 +1,18 @@
-# **Pinkerton Publishing**
+# **PINKERTON PUBLISHING**
 
 # Publishing Administration Done Right
 
-Pinkerton Publishing delivers straightforward, effective publishing administration services. We bridge the gap between creatives and collecting societies, managing the complexities of global copyright registration and royalty collection.
+Pinkerton Publishing delivers straightforward, effective publishing administration services. We bridge the gap between creatives and collecting societies, navigating the complexities of global copyright registration and royalty collection.
 
 ## Documentation Specialists
 
-Our expertise in copyright processes and metadata management ensures accuracy and efficiency. We handle complex administrative tasks, reduce your workload, save you time and get you paid.
+Our expertise in copyright processes and metadata management builds on years of hands-on experience. Performing complex administrative tasks right from the start ensures accuracy and efficiency. We do the heavy lifting, reducing your workload, saving you time and getting you paid.
 
-## Global Reach \- At-Source Collections
+## Global Reach
 
-Through strategic partnerships and direct affiliations with collecting societies worldwide, we ensure works are registered correctly for accurate licensing and effective usage matching, maximizing coverage, tapping into every available revenue stream.
+Through strategic partnerships and direct affiliations with collecting societies worldwide, we ensure works are registered correctly for accurate licensing and usage matching, maximizing coverage, collecting at-source, tapping into every available revenue stream.
 
-## Middlemen Music
+## Admin Partner Approach
 
 We believe in fair deals, transparent terms, and no lengthy lock-ups. Clients retain full ownership of their catalog, with flexibility to tailor mandates by repertoire and territory.
 
@@ -20,5 +20,4 @@ We believe in fair deals, transparent terms, and no lengthy lock-ups. Clients re
 
 We work exclusively with select clients and are not currently expanding our roster.
 
-Click to **Join the Waiting List** to be considered for future opportunities.
-
+**Join the Waiting List** to be considered for future opportunities.
