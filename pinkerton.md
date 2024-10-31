@@ -12,7 +12,7 @@ Our expertise in copyright processes and metadata management ensures accuracy an
 
 Through strategic partnerships and direct affiliations with collecting societies worldwide, we ensure works are registered correctly for accurate licensing and effective usage matching, maximizing coverage, tapping into every available revenue stream.
 
-## Too Many Middlemen Already
+## Middlemen Music
 
 We believe in fair deals, transparent terms, and no lengthy lock-ups. Clients retain full ownership of their catalog, with flexibility to tailor mandates by repertoire and territory.
 
@@ -20,5 +20,5 @@ We believe in fair deals, transparent terms, and no lengthy lock-ups. Clients re
 
 We work exclusively with select clients and are not currently expanding our roster.
 
-**Join the Waiting List** to be considered for future opportunities.
+Click to **Join the Waiting List** to be considered for future opportunities.
 
