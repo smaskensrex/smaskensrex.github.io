@@ -1,7 +1,172 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JGGBYWVSP2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JGGBYWVSP2');
+</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <title>Tenrox Rights Management</title>
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #fff;
+      color: #333;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+header img {
+  max-width: 100%; /* Ensures the image never overflows its container */
+  height: auto; /* Maintains the aspect ratio */
+  display: block; /* Removes any inline block gaps */
+  margin: 0 auto; /* Centers the logo */
+}
+
+@media (max-width: 768px) {
+  header img {
+    max-width: 80%; /* Reduce the size of the logo for smaller screens */
+  }
+}
+
+    header {
+      text-align: center;
+      padding: 20px;
+    }
+
+    header h1 {
+      color: #28a745;
+      font-size: 3em;
+      font-weight: bold;
+      margin: 0;
+      letter-spacing: 2px;
+    }
+
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px 20px;
+  margin: 20px auto;
+  max-width: 1200px;
+  flex-wrap: wrap; /* Ensure content wraps if necessary */
+}
+
+.section {
+  flex: 1;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column; /* Stack sections vertically */
+    gap: 15px; /* Adjust spacing between stacked sections */
+  }
+
+  .section {
+    width: 100%; /* Ensure sections take full width */
+    max-width: none; /* Remove any width limits */
+  }
+}
+
+
+    .section h2 {
+      color: #28a745;
+      font-size: 1.4em;
+      font-weight: bold;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+
+    .content {
+      display: none;
+      font-size: 0.9em;
+      line-height: 1.5;
+    }
+
+    .content p {
+      margin-bottom: 10px;
+    }
+
+    .section.expanded .content {
+      display: block;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.8em;
+      padding: 10px;
+      background-color: #fff;
+      color: #333;
+    }
+
+    footer a {
+      color: #28a745;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+
+<header>
+  <img src="./tenrox.png" alt="Tenrox Rights Management">
+</header>
+
+
+<div class="container">
+  <div class="section" id="pub-admin">
+    <h2>PUBLISHING ADMINISTRATION</h2>
+    <div class="content">
+      <p><strong>Pub Admin Done Right</strong><br> Pinkerton Publishing provides efficient publishing administration, bridging creatives and collecting societies to simplify global copyright registration and royalty collection.</p>
+      <p>Our documentation team specializes in metadata management and copyright processes, working with CMOs worldwide to ensure accurate registration and licensing, unlocking all revenue streams, reducing your workload and maximizing your royalties.</p>
+      <p>Pinkerton is an admin partner, clients customize mandates by territory and repertoire while maintaining catalog ownership.</p>
+      <p><em>*Currently not expanding our roster. *</em></p>
+    </div>
+  </div>
+
+  <div class="section" id="label-services">
+    <h2>LABEL SERVICES</h2>
+    <div class="content">
+      <p><strong>Manage Your Masters</strong><br> We help rights holders monetize and safeguard their catalogs.</p>
+      <p><strong>Tailored Services</strong><br> From distribution to neighboring rights, conflict resolution, and royalty processing, we assist in optimizing your revenue streams.</p>
+      <p><strong>Flexible Support</strong><br> Pick the services you need, and we’ll handle the rest - letting you focus on your creative output.</p>
+    </div>
+  </div>
+
+  <div class="section" id="rightsholder-consultancy">
+    <h2>RIGHTSHOLDER CONSULTANCY</h2>
+    <div class="content">
+      <p><strong>Rights Management Solutions</strong><br> Maximize your catalog's potential with project-based support.</p>
+      <p><strong>Specialized Expertise</strong><br> We focus on catalog clean-up, metadata validation, and rights status optimization.</p>
+      <p><strong>Revenue Maximization</strong><br> Our goal: protect your assets and ensure every possible income stream is captured.</p>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>&copy; 2024 Tenrox Rights Management | <a href="mailto:info@tenroxrightsmanagement.com">Contact</a></p>
+</footer>
+
+<script>
+  document.querySelectorAll('.section').forEach(section => {
+    section.addEventListener('click', () => {
+      section.classList.toggle('expanded');
+    });
+  });
+</script>
+
 </body>
 </html>
